@@ -1,5 +1,1 @@
-"# decentralized-app" 
-"# Omnifood" 
-"# Omnifood" 
-"# Omnifood" 
-"# Omnifood" 
+A Landing page built with HTML/CSS/JavaScript.
