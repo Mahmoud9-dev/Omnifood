@@ -4,6 +4,9 @@
 
 Welcome to **Omnifood**! This project marks my journey into the world of HTML and CSS, where I explored the building blocks of modern web development through a hands-on, practical approach.
 
+![2024-08-29 15 58 04](https://github.com/user-attachments/assets/5558143c-0afa-428b-a698-295b102068c3)
+
+
 ## 🌐 [Live Demo](https://omnifood-mahmoud0.netlify.app/)  
 Dive in and see the Omnifood website in action! Click the link to experience the responsive design and clean, modern aesthetics firsthand.
 
